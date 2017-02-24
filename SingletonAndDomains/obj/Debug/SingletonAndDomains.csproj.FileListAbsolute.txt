@@ -1,0 +1,8 @@
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\bin\Debug\SingletonAndDomains.exe.config
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\bin\Debug\SingletonAndDomains.exe
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\bin\Debug\SingletonAndDomains.pdb
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\obj\Debug\SingletonAndDomains.csprojResolveAssemblyReference.cache
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\obj\Debug\SingletonAndDomains.exe
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\obj\Debug\SingletonAndDomains.pdb
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\obj\Debug\Interop.mscoree.dll
+c:\users\андрец\documents\visual studio 2017\Projects\SingletonAndDomains\SingletonAndDomains\obj\Debug\SingletonAndDomains.csproj.ResolveComReference.cache
